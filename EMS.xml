@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Studio 2021 (https://www.liquid-technologies.com) -->
+<?xml-stylesheet type="text/xsl" href="EMP.xsl"?>
+<Company  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="EMS.xsd">
+<employees>
+    <employee ID="E01">
+        <NAME> MRINIS </NAME>
+        <AGE>30</AGE>
+        <SALARY>1000000</SALARY>
+        <EMAIL>mrinis@gmail.com</EMAIL>
+        <MobNum>1234098765</MobNum>
+        <Designation>CEO</Designation>
+
+    </employee>
+
+    <employee ID="E02">
+        <NAME>BALE</NAME>
+        <AGE>45</AGE>
+        <SALARY>50000</SALARY>
+        <EMAIL>bale@gmail.com</EMAIL>
+        <MobNum>8281930231</MobNum>
+        <Designation>CHAIRPERSON</Designation>
+       
+
+    </employee>
+
+    <employee ID="E03">
+        <NAME>DAVID</NAME>
+        <AGE>30</AGE>
+        <SALARY>30000</SALARY>
+        <EMAIL>david@gmail.com</EMAIL>
+        <MobNum>9747436118</MobNum>
+        <Designation>Sales Head</Designation>
+    
+
+    </employee>
+
+    <employee ID="E04">
+        <NAME>ROBERT</NAME>
+        <AGE>42</AGE>
+        <SALARY>20000</SALARY>
+        <EMAIL>robert@gmail.com</EMAIL>
+        <MobNum>9625550987</MobNum>
+        <Designation>Technical Head</Designation>    
+
+    </employee>
+
+    <employee ID="E05">
+        <NAME>FROST</NAME>
+        <AGE>34</AGE>
+        <SALARY>25000</SALARY>
+        <EMAIL>frost@gmail.com</EMAIL>
+        <MobNum>9645547431</MobNum>
+        <Designation>Staff</Designation>
+    
+
+    </employee>
+
+</employees>
+</Company>
